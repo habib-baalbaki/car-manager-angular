@@ -1,0 +1,8 @@
+{
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "https://github.com/habib-baalbaki/car-manager-angular.git"
+    ],
+    "github-enterprise.uri": "https://github.com/habib-baalbaki"
+}
